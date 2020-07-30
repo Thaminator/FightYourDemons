@@ -1,0 +1,2587 @@
+fileFormatVersion: 2
+guid: cfdebc41a96fe894992067cbd1eda2bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3139977549839859720
+    second: frying_pan__x1_tool_animation_png_1354830080_0
+  - first:
+      213: -8866260510836458038
+    second: frying_pan__x1_tool_animation_png_1354830080_1
+  - first:
+      213: 1346452571236921728
+    second: frying_pan__x1_tool_animation_png_1354830080_2
+  - first:
+      213: 1632998314132670989
+    second: frying_pan__x1_tool_animation_png_1354830080_3
+  - first:
+      213: -5096144125510246789
+    second: frying_pan__x1_tool_animation_png_1354830080_4
+  - first:
+      213: -7936825373454998235
+    second: frying_pan__x1_tool_animation_png_1354830080_5
+  - first:
+      213: -610819263508115575
+    second: frying_pan__x1_tool_animation_png_1354830080_6
+  - first:
+      213: -4669996913174877411
+    second: frying_pan__x1_tool_animation_png_1354830080_7
+  - first:
+      213: -8800202178558491715
+    second: frying_pan__x1_tool_animation_png_1354830080_8
+  - first:
+      213: 3909296088315358142
+    second: frying_pan__x1_tool_animation_png_1354830080_9
+  - first:
+      213: 3292010316001253601
+    second: frying_pan__x1_tool_animation_png_1354830080_10
+  - first:
+      213: 3594849874200765194
+    second: frying_pan__x1_tool_animation_png_1354830080_11
+  - first:
+      213: 2746072455270176979
+    second: frying_pan__x1_tool_animation_png_1354830080_12
+  - first:
+      213: 6805048821175955894
+    second: frying_pan__x1_tool_animation_png_1354830080_13
+  - first:
+      213: 6933313883437050047
+    second: frying_pan__x1_tool_animation_png_1354830080_14
+  - first:
+      213: 1630531958073037816
+    second: frying_pan__x1_tool_animation_png_1354830080_15
+  - first:
+      213: 1324834492258962829
+    second: frying_pan__x1_tool_animation_png_1354830080_16
+  - first:
+      213: 2154926082793190911
+    second: frying_pan__x1_tool_animation_png_1354830080_17
+  - first:
+      213: -7386313363444239737
+    second: frying_pan__x1_tool_animation_png_1354830080_18
+  - first:
+      213: -7854905912744138123
+    second: frying_pan__x1_tool_animation_png_1354830080_19
+  - first:
+      213: 3312425027501644161
+    second: frying_pan__x1_tool_animation_png_1354830080_20
+  - first:
+      213: -9222859496321859159
+    second: frying_pan__x1_tool_animation_png_1354830080_21
+  - first:
+      213: 4514495499265029248
+    second: frying_pan__x1_tool_animation_png_1354830080_22
+  - first:
+      213: 4329850453238904342
+    second: frying_pan__x1_tool_animation_png_1354830080_23
+  - first:
+      213: -4461012380256962062
+    second: frying_pan__x1_tool_animation_png_1354830080_24
+  - first:
+      213: -21315474383893018
+    second: frying_pan__x1_tool_animation_png_1354830080_25
+  - first:
+      213: 8888201710814472930
+    second: frying_pan__x1_tool_animation_png_1354830080_26
+  - first:
+      213: -253725396258402927
+    second: frying_pan__x1_tool_animation_png_1354830080_27
+  - first:
+      213: -3301086990562160486
+    second: frying_pan__x1_tool_animation_png_1354830080_28
+  - first:
+      213: -6848333573691045602
+    second: frying_pan__x1_tool_animation_png_1354830080_29
+  - first:
+      213: 4516111943268946543
+    second: frying_pan__x1_tool_animation_png_1354830080_30
+  - first:
+      213: -7189803746074386628
+    second: frying_pan__x1_tool_animation_png_1354830080_31
+  - first:
+      213: -1886901165391008792
+    second: frying_pan__x1_tool_animation_png_1354830080_32
+  - first:
+      213: -5886222361678735116
+    second: frying_pan__x1_tool_animation_png_1354830080_33
+  - first:
+      213: -3649589516493130135
+    second: frying_pan__x1_tool_animation_png_1354830080_34
+  - first:
+      213: -4867303017748698637
+    second: frying_pan__x1_tool_animation_png_1354830080_35
+  - first:
+      213: -3363312143264812383
+    second: frying_pan__x1_tool_animation_png_1354830080_36
+  - first:
+      213: -1236032429730909563
+    second: frying_pan__x1_tool_animation_png_1354830080_37
+  - first:
+      213: 5841199307069410139
+    second: frying_pan__x1_tool_animation_png_1354830080_38
+  - first:
+      213: 5476983132726136513
+    second: frying_pan__x1_tool_animation_png_1354830080_39
+  - first:
+      213: 3186305691366486305
+    second: frying_pan__x1_tool_animation_png_1354830080_40
+  - first:
+      213: -845987228587130095
+    second: frying_pan__x1_tool_animation_png_1354830080_41
+  - first:
+      213: 3957970111407792009
+    second: frying_pan__x1_tool_animation_png_1354830080_42
+  - first:
+      213: 4260112233270591574
+    second: frying_pan__x1_tool_animation_png_1354830080_43
+  - first:
+      213: 2220770760332397833
+    second: frying_pan__x1_tool_animation_png_1354830080_44
+  - first:
+      213: -3892483374185825435
+    second: frying_pan__x1_tool_animation_png_1354830080_45
+  - first:
+      213: 6803956005547805835
+    second: frying_pan__x1_tool_animation_png_1354830080_46
+  - first:
+      213: -3920150883447250864
+    second: frying_pan__x1_tool_animation_png_1354830080_47
+  - first:
+      213: 6132363442570694614
+    second: frying_pan__x1_tool_animation_png_1354830080_48
+  - first:
+      213: -6973463907107992918
+    second: frying_pan__x1_tool_animation_png_1354830080_49
+  - first:
+      213: 8626045511349617394
+    second: frying_pan__x1_tool_animation_png_1354830080_50
+  - first:
+      213: 3392263716861177555
+    second: frying_pan__x1_tool_animation_png_1354830080_51
+  - first:
+      213: -2225343356842999095
+    second: frying_pan__x1_tool_animation_png_1354830080_52
+  - first:
+      213: 5177799234228908029
+    second: frying_pan__x1_tool_animation_png_1354830080_53
+  - first:
+      213: -4482256809138696400
+    second: frying_pan__x1_tool_animation_png_1354830080_54
+  - first:
+      213: 7058902984231038801
+    second: frying_pan__x1_tool_animation_png_1354830080_55
+  - first:
+      213: 4203876862292809616
+    second: frying_pan__x1_tool_animation_png_1354830080_56
+  - first:
+      213: 7640479853666033366
+    second: frying_pan__x1_tool_animation_png_1354830080_57
+  - first:
+      213: -2068334041956470995
+    second: frying_pan__x1_tool_animation_png_1354830080_58
+  - first:
+      213: 8477725128164737127
+    second: frying_pan__x1_tool_animation_png_1354830080_59
+  - first:
+      213: 2768294977537281929
+    second: frying_pan__x1_tool_animation_png_1354830080_60
+  - first:
+      213: 8574427686190344533
+    second: frying_pan__x1_tool_animation_png_1354830080_61
+  - first:
+      213: 2758576142864366565
+    second: frying_pan__x1_tool_animation_png_1354830080_62
+  - first:
+      213: -5059018081456710599
+    second: frying_pan__x1_tool_animation_png_1354830080_63
+  - first:
+      213: -1018444352628286824
+    second: frying_pan__x1_tool_animation_png_1354830080_64
+  - first:
+      213: -3212493854319419021
+    second: frying_pan__x1_tool_animation_png_1354830080_65
+  - first:
+      213: 5289863385842002519
+    second: frying_pan__x1_tool_animation_png_1354830080_66
+  - first:
+      213: 2676291569611536017
+    second: frying_pan__x1_tool_animation_png_1354830080_67
+  - first:
+      213: -8856674206245426521
+    second: frying_pan__x1_tool_animation_png_1354830080_68
+  - first:
+      213: 894235892823189460
+    second: frying_pan__x1_tool_animation_png_1354830080_69
+  - first:
+      213: 2004921459514132969
+    second: frying_pan__x1_tool_animation_png_1354830080_70
+  - first:
+      213: 701559985073600269
+    second: frying_pan__x1_tool_animation_png_1354830080_71
+  - first:
+      213: -6109106657932458137
+    second: frying_pan__x1_tool_animation_png_1354830080_72
+  - first:
+      213: 6384612777572597105
+    second: frying_pan__x1_tool_animation_png_1354830080_73
+  - first:
+      213: -4983688487583188334
+    second: frying_pan__x1_tool_animation_png_1354830080_74
+  - first:
+      213: -1578605006985040345
+    second: frying_pan__x1_tool_animation_png_1354830080_75
+  - first:
+      213: 8845512391466039337
+    second: frying_pan__x1_tool_animation_png_1354830080_76
+  - first:
+      213: 1485582016033789436
+    second: frying_pan__x1_tool_animation_png_1354830080_77
+  - first:
+      213: 2391749634386792942
+    second: frying_pan__x1_tool_animation_png_1354830080_78
+  - first:
+      213: 7130773483239877536
+    second: frying_pan__x1_tool_animation_png_1354830080_79
+  - first:
+      213: -4823701875130336300
+    second: frying_pan__x1_tool_animation_png_1354830080_80
+  - first:
+      213: -1256595446446683175
+    second: frying_pan__x1_tool_animation_png_1354830080_81
+  - first:
+      213: 2412273663080441702
+    second: frying_pan__x1_tool_animation_png_1354830080_82
+  - first:
+      213: -4742251290326651936
+    second: frying_pan__x1_tool_animation_png_1354830080_83
+  - first:
+      213: 2702964150280453514
+    second: frying_pan__x1_tool_animation_png_1354830080_84
+  - first:
+      213: -9002225478202818922
+    second: frying_pan__x1_tool_animation_png_1354830080_85
+  - first:
+      213: -1568305336227660763
+    second: frying_pan__x1_tool_animation_png_1354830080_86
+  - first:
+      213: -7695115121489838135
+    second: frying_pan__x1_tool_animation_png_1354830080_87
+  - first:
+      213: -178820148161889271
+    second: frying_pan__x1_tool_animation_png_1354830080_88
+  - first:
+      213: 8806547842856951965
+    second: frying_pan__x1_tool_animation_png_1354830080_89
+  - first:
+      213: 1809513758590807057
+    second: frying_pan__x1_tool_animation_png_1354830080_90
+  - first:
+      213: -7894839710356286062
+    second: frying_pan__x1_tool_animation_png_1354830080_91
+  - first:
+      213: -6691314861085754177
+    second: frying_pan__x1_tool_animation_png_1354830080_92
+  - first:
+      213: -7260691220795278039
+    second: frying_pan__x1_tool_animation_png_1354830080_93
+  - first:
+      213: -4672962586227818299
+    second: frying_pan__x1_tool_animation_png_1354830080_94
+  - first:
+      213: -4630064223639229972
+    second: frying_pan__x1_tool_animation_png_1354830080_95
+  - first:
+      213: 4879456252527993870
+    second: frying_pan__x1_tool_animation_png_1354830080_96
+  - first:
+      213: -2205983463612318282
+    second: frying_pan__x1_tool_animation_png_1354830080_97
+  - first:
+      213: -6815814747560326335
+    second: frying_pan__x1_tool_animation_png_1354830080_98
+  - first:
+      213: -4031805786044151190
+    second: frying_pan__x1_tool_animation_png_1354830080_99
+  - first:
+      213: 3881597760914022153
+    second: frying_pan__x1_tool_animation_png_1354830080_100
+  - first:
+      213: 8573148428503529349
+    second: frying_pan__x1_tool_animation_png_1354830080_101
+  - first:
+      213: -8706436255718730230
+    second: frying_pan__x1_tool_animation_png_1354830080_102
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1345
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f529f71800c98343a9517def1f32085
+      internalID: 3139977549839859720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1344
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16da45ca33b75c043b0586a368deaf35
+      internalID: -8866260510836458038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1345
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baae7ce107478241bf59bb07cb2f995
+      internalID: 1346452571236921728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_3
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1345
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cec4f3dc696bc43af9f10e824394e9
+      internalID: 1632998314132670989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1345
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1333ce2bd338c3b41af90bfaa42cab97
+      internalID: -5096144125510246789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_5
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1346
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e9d2a65228a7498f173901e99e2cf
+      internalID: -7936825373454998235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1251
+        width: 126
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f560a69da1085e46adc4e871c5b9cc0
+      internalID: -610819263508115575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1252
+        width: 131
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3598c9c71ba5e146bb13066013c3206
+      internalID: -4669996913174877411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1253
+        width: 134
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f288474ae5eb6224c8b1247471c74c05
+      internalID: -8800202178558491715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_9
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1253
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af67c10f2329c841b80c0d1235ef8a9
+      internalID: 3909296088315358142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1253
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8994c0d8990dd004386479dea6d4d5b1
+      internalID: 3292010316001253601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_11
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1253
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c108f0ca6f6a61478da2484eab2bcb0
+      internalID: 3594849874200765194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1157
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89805474485948b4390459214358b295
+      internalID: 2746072455270176979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1157
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a21a901791794a87565e579009f13
+      internalID: 6805048821175955894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1157
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fcf2af4df5b86468449ea924bc6e2c
+      internalID: 6933313883437050047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1157
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b151b71249884c8b271b045e9cd99
+      internalID: 1630531958073037816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1157
+        width: 135
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e31e4642e3047946a109aac4ff0f1ad
+      internalID: 1324834492258962829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_17
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1157
+        width: 134
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992075102002c8e4cb5fd8df6d88d684
+      internalID: 2154926082793190911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1061
+        width: 134
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e70c29efce2d439ff61cb53c10483
+      internalID: -7386313363444239737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1063
+        width: 132
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bff7909a478ec64bb8f6ed36c18d033
+      internalID: -7854905912744138123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1064
+        width: 129
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979944ee8603c545b607d20dcb0259e
+      internalID: 3312425027501644161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1073
+        width: 132
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ed6ac4cbb6aac4eb763e0b8ba47340
+      internalID: -9222859496321859159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1079
+        width: 132
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb11548675442b4c81d9b5d73e1fdb9
+      internalID: 4514495499265029248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_23
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1083
+        width: 134
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e46187b7030334494d4617c268eadd
+      internalID: 4329850453238904342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 988
+        width: 134
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6dc33cc7432f24ea96be764d150e1b
+      internalID: -4461012380256962062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 987
+        width: 134
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5894ff708b42e41825dacd0e70fc12
+      internalID: -21315474383893018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 986
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d661ae0f56eb7c47bf5a7a77efe9b79
+      internalID: 8888201710814472930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 984
+        width: 136
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e56d9224861d49a13126d3bab64f1
+      internalID: -253725396258402927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_28
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 983
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ac0190249b9f240a57dd5504f805f8
+      internalID: -3301086990562160486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_29
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 984
+        width: 136
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7208d222ae5d48abbfc1290c77728
+      internalID: -6848333573691045602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 890
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f49fafac477ce74194de5c74ef48742
+      internalID: 4516111943268946543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 891
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31756817e9019724e91367e3c412183d
+      internalID: -7189803746074386628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 891
+        width: 134
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3643c004d5ffe047b80f4381601504b
+      internalID: -1886901165391008792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_33
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 890
+        width: 134
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379575dc4ea54274ebe1448a94321f88
+      internalID: -5886222361678735116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_34
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 889
+        width: 135
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5b24f7c9cb7c64498553cde09fd22e
+      internalID: -3649589516493130135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_35
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 887
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b103f123ed008764cabd576f829a3f65
+      internalID: -4867303017748698637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 790
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c639e2a7cece94a8775b0d9a180033
+      internalID: -3363312143264812383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 791
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575fbc4aa07b74f409ba36b8e9eb93e7
+      internalID: -1236032429730909563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 793
+        width: 134
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6282a7094ca9d244a24675bb2dd85aa
+      internalID: 5841199307069410139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_39
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 795
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24777cdc6d3205f4788be3b0beb49da7
+      internalID: 5476983132726136513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_40
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 795
+        width: 134
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e41521cf45e639448b7d1a458b195e3
+      internalID: 3186305691366486305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_41
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 794
+        width: 134
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b22ac44d1073b64e9ea0091a9dfdad3
+      internalID: -845987228587130095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 697
+        width: 135
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357207b61762a64d856db56e4176be0
+      internalID: 3957970111407792009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_43
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 695
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c14a8202979b6841b2c30d1f7ad1399
+      internalID: 4260112233270591574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_44
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 694
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70833d52a79ebbb4799e500f75f43b1e
+      internalID: 2220770760332397833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 695
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25350bb3733cab44789505ab5cb71807
+      internalID: -3892483374185825435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_46
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 698
+        width: 134
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a2437a548029843b1efdd46f203f77
+      internalID: 6803956005547805835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_47
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 700
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e6a0910cd9a3140a1ff92382ad1034
+      internalID: -3920150883447250864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 605
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c4eeb695c4b8c4c8935e8ebe978d05
+      internalID: 6132363442570694614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_49
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 605
+        width: 135
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e079f2f32386348a9fd30f4503e839
+      internalID: -6973463907107992918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_50
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 604
+        width: 135
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c166dc92dd5f0a54185bcecf7e33db98
+      internalID: 8626045511349617394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_51
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 602
+        width: 135
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d87dbede0cac824d830ccdee05f13fa
+      internalID: 3392263716861177555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_52
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 600
+        width: 135
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e0f187d5c9b4458c151a53301d2cf
+      internalID: -2225343356842999095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_53
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 600
+        width: 135
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0409463110fc6418784d5d653bbbdc
+      internalID: 5177799234228908029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_54
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 503
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca25eb590147842bdd3e1dd130a420
+      internalID: -4482256809138696400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_55
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 503
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709a8d2dd02f84b4da2617667528fd9f
+      internalID: 7058902984231038801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_56
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 502
+        width: 135
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf60ff42d9fa5d746b42c8600adf3b27
+      internalID: 4203876862292809616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_57
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 501
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5b90a21abb5764fa60466c27e58512
+      internalID: 7640479853666033366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_58
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 499
+        width: 134
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3906e078df066aa4da032ba4dd6f65c5
+      internalID: -2068334041956470995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_59
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 496
+        width: 134
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50360ed5da307e4588ec2a7c6c5ab83
+      internalID: 8477725128164737127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_60
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 535
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d4fe771bbf5a944ae3862f4604f528
+      internalID: 2768294977537281929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_61
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 471
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b336ed2ccc3afeb488618bfa9a41aaba
+      internalID: 8574427686190344533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 471
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f473a5763bf6f48a3702e6f6529ea6
+      internalID: 2758576142864366565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_63
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 458
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c7eb3646cf830438c206e1e9374417
+      internalID: -5059018081456710599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_64
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 458
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dec01ae3ef4b141991ef9d719937ab
+      internalID: -1018444352628286824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_65
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 465
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527abb48f6fbc26429787b7530e4462f
+      internalID: -3212493854319419021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_66
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 465
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a13372bc0b19c24abdec6f1722cd536
+      internalID: 5289863385842002519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 452
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba9fde927283774ab390da3ea1594c7
+      internalID: 2676291569611536017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 452
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd474a0a9892d943a788586d02f9ba1
+      internalID: -8856674206245426521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_69
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 396
+        width: 132
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4eeee0f33b5b5449929b35cc3e34f2
+      internalID: 894235892823189460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_70
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 394
+        width: 131
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e83a56fd43993246878e6fa4981065c
+      internalID: 2004921459514132969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_71
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 392
+        width: 130
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec1312ea9723ef41a1d9cc21390f928
+      internalID: 701559985073600269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_72
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 391
+        width: 130
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a27aa02c5fbbe64ba2948be5f1a3ab8
+      internalID: -6109106657932458137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_73
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 392
+        width: 132
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc3360ea008c5743ac08a9d649be2a4
+      internalID: 6384612777572597105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_74
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 391
+        width: 133
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63489d5b8046f81439a282c09ec55992
+      internalID: -4983688487583188334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 377
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523f9cfa941696049b8b0ba3e1ab352a
+      internalID: -1578605006985040345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_76
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 377
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568ced6ff152a154682cb650cf1fb6c4
+      internalID: 8845512391466039337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_77
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 380
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f889ca4f937b2644fa62b610ad3c2f2a
+      internalID: 1485582016033789436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_78
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 380
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314ca6cecbde10c46a3bc1f150001bc3
+      internalID: 2391749634386792942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 294
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a0f3819bc353c42bcf7b8ab8023309
+      internalID: 7130773483239877536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_80
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 293
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58dd534377d8ef49bffab73d32697a1
+      internalID: -4823701875130336300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_81
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 293
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7532834702459458931e7a36e485b6
+      internalID: -1256595446446683175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_82
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 293
+        width: 136
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122f88631ace1854e9e85d84a3b993d2
+      internalID: 2412273663080441702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_83
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 293
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec5ccd648006b243955f943dae0816b
+      internalID: -4742251290326651936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_84
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 293
+        width: 136
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff5b4e30ca4c2147b3e844517520749
+      internalID: 2702964150280453514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_85
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 197
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e3effeebfc76418f92d10f7a1824d
+      internalID: -9002225478202818922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_86
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 197
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a871aea2a58f8324885906201519e2bf
+      internalID: -1568305336227660763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_87
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 197
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026723a1dc6968a4ca779652de45702c
+      internalID: -7695115121489838135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_88
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 197
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e536f30d07924a85e8527fe0ccced
+      internalID: -178820148161889271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_89
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 197
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154b0780607befb40be211ae5e772af1
+      internalID: 8806547842856951965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_90
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 197
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270a9459cc77e5940b2526e5d53a07e0
+      internalID: 1809513758590807057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_91
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 101
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba309879b5c03b547b0bcc1d3c9f93ba
+      internalID: -7894839710356286062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_92
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 101
+        width: 135
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5353e28c237f2b43890cd98eb1e5537
+      internalID: -6691314861085754177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_93
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 101
+        width: 134
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d187f61192c14964c8051b8a9540339d
+      internalID: -7260691220795278039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_94
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 100
+        width: 132
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32595a81cd25e8f478a9146b2f32c2e7
+      internalID: -4672962586227818299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_95
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 99
+        width: 126
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf11e628157b84bad7510046726ba1
+      internalID: -4630064223639229972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_96
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 98
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e611bdddbf54104b8f1c14bbad8dcea
+      internalID: 4879456252527993870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_97
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862bbbac01666bf4092f637f95626321
+      internalID: -2205983463612318282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_98
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dfdeaf10b2fea43b0c42ec7888184a
+      internalID: -6815814747560326335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_99
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bebf019f24def4086683261ed4cce2
+      internalID: -4031805786044151190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_100
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e5d3bfe27a865488a520347afbe285
+      internalID: 3881597760914022153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_101
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fca4e438b08b1449d79cbd27c893a6
+      internalID: 8573148428503529349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frying_pan__x1_tool_animation_png_1354830080_102
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f26620c8476a44990c0b7371649392
+      internalID: -8706436255718730230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
