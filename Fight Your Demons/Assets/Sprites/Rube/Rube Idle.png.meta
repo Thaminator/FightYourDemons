@@ -1,0 +1,1795 @@
+fileFormatVersion: 2
+guid: bbb42f23c1e614543adabfcae67f9adc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5532784887433941089
+    second: Rube Idle_0
+  - first:
+      213: -7769589216455301957
+    second: Rube Idle_1
+  - first:
+      213: -4205303240049780940
+    second: Rube Idle_2
+  - first:
+      213: -759164263195212112
+    second: Rube Idle_3
+  - first:
+      213: -4164624313471266192
+    second: Rube Idle_4
+  - first:
+      213: -8159871088746657119
+    second: Rube Idle_5
+  - first:
+      213: 311179453737760454
+    second: Rube Idle_6
+  - first:
+      213: 291769190338302404
+    second: Rube Idle_7
+  - first:
+      213: 3036013359616518078
+    second: Rube Idle_8
+  - first:
+      213: -1693453883202728016
+    second: Rube Idle_9
+  - first:
+      213: 5444339725806369024
+    second: Rube Idle_10
+  - first:
+      213: -1022156256950051125
+    second: Rube Idle_11
+  - first:
+      213: -566393275288968233
+    second: Rube Idle_12
+  - first:
+      213: -1724353570596987754
+    second: Rube Idle_13
+  - first:
+      213: -515181931514780469
+    second: Rube Idle_14
+  - first:
+      213: -6097373117030940403
+    second: Rube Idle_15
+  - first:
+      213: 5723858051405360716
+    second: Rube Idle_16
+  - first:
+      213: 4025100639758595808
+    second: Rube Idle_17
+  - first:
+      213: 6370598260611958653
+    second: Rube Idle_18
+  - first:
+      213: 6367896833492008318
+    second: Rube Idle_19
+  - first:
+      213: 3243240834385298313
+    second: Rube Idle_20
+  - first:
+      213: -6531497303104570792
+    second: Rube Idle_21
+  - first:
+      213: 7541164763577176280
+    second: Rube Idle_22
+  - first:
+      213: 6097561713807291190
+    second: Rube Idle_23
+  - first:
+      213: -2090297198053479554
+    second: Rube Idle_24
+  - first:
+      213: -5154588965108111329
+    second: Rube Idle_25
+  - first:
+      213: 6007697968336701050
+    second: Rube Idle_26
+  - first:
+      213: 6311285460763224121
+    second: Rube Idle_27
+  - first:
+      213: -3830758090008729983
+    second: Rube Idle_28
+  - first:
+      213: -9204802344414526975
+    second: Rube Idle_29
+  - first:
+      213: -3141599625640196381
+    second: Rube Idle_30
+  - first:
+      213: -3338682928571937984
+    second: Rube Idle_31
+  - first:
+      213: -245831122460606984
+    second: Rube Idle_32
+  - first:
+      213: 5255465369076790674
+    second: Rube Idle_33
+  - first:
+      213: 7870788514407753295
+    second: Rube Idle_34
+  - first:
+      213: 2738287667873799973
+    second: Rube Idle_35
+  - first:
+      213: -6628328310453220645
+    second: Rube Idle_36
+  - first:
+      213: 6558622959161993310
+    second: Rube Idle_37
+  - first:
+      213: 9181536857932734578
+    second: Rube Idle_38
+  - first:
+      213: 1389731599169909794
+    second: Rube Idle_39
+  - first:
+      213: -6121965090669470333
+    second: Rube Idle_40
+  - first:
+      213: 3542289003018182295
+    second: Rube Idle_41
+  - first:
+      213: 4957178620080976329
+    second: Rube Idle_42
+  - first:
+      213: -6910053736464470037
+    second: Rube Idle_43
+  - first:
+      213: -6205912288498858851
+    second: Rube Idle_44
+  - first:
+      213: 8848473642564335129
+    second: Rube Idle_45
+  - first:
+      213: 100071890075159887
+    second: Rube Idle_46
+  - first:
+      213: -5743446058685386888
+    second: Rube Idle_47
+  - first:
+      213: -4477110048445786116
+    second: Rube Idle_48
+  - first:
+      213: 6465091393408238878
+    second: Rube Idle_49
+  - first:
+      213: -2150512139655026431
+    second: Rube Idle_50
+  - first:
+      213: -3322139509929490394
+    second: Rube Idle_51
+  - first:
+      213: -2368993872183401408
+    second: Rube Idle_52
+  - first:
+      213: -3166132452696811816
+    second: Rube Idle_53
+  - first:
+      213: 3342033292104776407
+    second: Rube Idle_54
+  - first:
+      213: 3895537285501837073
+    second: Rube Idle_55
+  - first:
+      213: -3930226405868249096
+    second: Rube Idle_56
+  - first:
+      213: -5760167945764072406
+    second: Rube Idle_57
+  - first:
+      213: -8868392585238706146
+    second: Rube Idle_58
+  - first:
+      213: -2836665155545525435
+    second: Rube Idle_59
+  - first:
+      213: -4595987612161399164
+    second: Rube Idle_60
+  - first:
+      213: 1993740855369703383
+    second: Rube Idle_61
+  - first:
+      213: -7022864682483412536
+    second: Rube Idle_62
+  - first:
+      213: 6871027442904512536
+    second: Rube Idle_63
+  - first:
+      213: 5671934214856337169
+    second: Rube Idle_64
+  - first:
+      213: -915764690348663214
+    second: Rube Idle_65
+  - first:
+      213: -7903637604735250989
+    second: Rube Idle_66
+  - first:
+      213: 5781232053684765976
+    second: Rube Idle_67
+  - first:
+      213: -1103123155210063795
+    second: Rube Idle_68
+  - first:
+      213: 5707805243446101172
+    second: Rube Idle_69
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rube Idle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1077
+        width: 96
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120688175d012c04e9270600a3deb407
+      internalID: 5532784887433941089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1077
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c963e6700c9b3e44b2285b8ef42a073
+      internalID: -7769589216455301957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1077
+        width: 96
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5abc80fc4733e4cac8a5be681725d8
+      internalID: -4205303240049780940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1077
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f95e46b5308a1446ad261053b1baa41
+      internalID: -759164263195212112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1077
+        width: 90
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7123bc5098c2544f9436caa283c8b03
+      internalID: -4164624313471266192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1077
+        width: 90
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c8dfd6c1de3af48b30bc01461cccf7
+      internalID: -8159871088746657119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1077
+        width: 90
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bc13efe29337b419eb1abdf4676048
+      internalID: 311179453737760454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_7
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1077
+        width: 91
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da5e4f4173733240a17cb9c76a16a43
+      internalID: 291769190338302404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_8
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1077
+        width: 91
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd3218c15545964189def0665587f4c
+      internalID: 3036013359616518078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 923
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f573c4fa065a7943bf6c57d1d5f94b2
+      internalID: -1693453883202728016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 923
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a6670d3c922444a3ec46ced81786e
+      internalID: 5444339725806369024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 923
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a5c75a1c7462458ac31a837214d0b
+      internalID: -1022156256950051125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 923
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e596d984fd6108b4f9bc215adcbdf264
+      internalID: -566393275288968233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 923
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106a1ae03b42e064e860327140ec7594
+      internalID: -1724353570596987754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 923
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33478dd12d2f1a04989e122e8f034e02
+      internalID: -515181931514780469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_15
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 923
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847d83d7668efb544807c3754671b46f
+      internalID: -6097373117030940403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_16
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 923
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19198d9500d9c5f40a1e07dca87d4712
+      internalID: 5723858051405360716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_17
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 923
+        width: 95
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2498329df8cc9e347b929d36b8b8675b
+      internalID: 4025100639758595808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 769
+        width: 92
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1ed3e70e038e84c99d80e2c2ebc014
+      internalID: 6370598260611958653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 769
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7a7de67b6d74f41a0dc19f8bc457e7
+      internalID: 6367896833492008318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 769
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab99f6333659b14fa58064f517628fe
+      internalID: 3243240834385298313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 769
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c77bad2743e2b41b3db17a4542f647
+      internalID: -6531497303104570792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 769
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ea8921448b4f4b93543470d3b7b8e
+      internalID: 7541164763577176280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 769
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e0492b4e7be4346b42617391a6ae63
+      internalID: 6097561713807291190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 769
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf3f1dc76f6af64faa06310885fe69a
+      internalID: -2090297198053479554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_25
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 769
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52b287f1cc02840b61d6f534f6e22c
+      internalID: -5154588965108111329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_26
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 769
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f11e9a92466534c97fc5b1976b749b
+      internalID: 6007697968336701050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 621
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a66433238becc14a86ac93e47827576
+      internalID: 6311285460763224121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 617
+        width: 89
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7139645fd971af9499c066975e96e524
+      internalID: -3830758090008729983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_29
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 616
+        width: 89
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fd4c64e884d0547a02f0cccd94750a
+      internalID: -9204802344414526975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 616
+        width: 89
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9135d4f6173871b43a916a58aa3fd9c9
+      internalID: -3141599625640196381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 616
+        width: 89
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35bcdb81820fe44a84c9953a66ab0df
+      internalID: -3338682928571937984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_32
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 615
+        width: 89
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21b5347071a4d946bdf4601e22de9f4
+      internalID: -245831122460606984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_33
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 615
+        width: 89
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fbebf672ad8cc45b23f326155e1836
+      internalID: 5255465369076790674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_34
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 615
+        width: 89
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d31e1def818fc84f8d9fe6c7959cb15
+      internalID: 7870788514407753295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_35
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 615
+        width: 89
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1b5ecb46c09854e8591a029a12081f
+      internalID: 2738287667873799973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6616dd81f4dbbdc459fb022f85973f14
+      internalID: -6628328310453220645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 479
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d810e30a3bb9343b7f5d3b2a3292d4
+      internalID: 6558622959161993310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 479
+        width: 99
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc05f1e3ff504c4498d549378657107e
+      internalID: 9181536857932734578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 480
+        width: 93
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b87ce60f5f02046afcdfc7e448a51b
+      internalID: 1389731599169909794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 478
+        width: 99
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13952d36bff93c4d9e1b7b473a73579
+      internalID: -6121965090669470333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_41
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 477
+        width: 104
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931ed0f1b05abe340a3ef1862edce8a3
+      internalID: 3542289003018182295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 477
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937046fa5437a934ab34906a829cffc5
+      internalID: 4957178620080976329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_43
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 472
+        width: 104
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec78206e27f0ce45b11e940781952ca
+      internalID: -6910053736464470037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_44
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 468
+        width: 101
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475abd8dd26c9fb488c7dfba7b75f461
+      internalID: -6205912288498858851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 309
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd7b5de2799f5341b0c5bea9e175a20
+      internalID: 8848473642564335129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 313
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2f8cd9b2e10f54ea5d101331f21c44
+      internalID: 100071890075159887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 313
+        width: 103
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0cc9a04791cd54dad43b96688cbe09
+      internalID: -5743446058685386888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_48
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 314
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b61e3d870668d64fac59c5c0149051c
+      internalID: -4477110048445786116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 318
+        width: 105
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7c682759d319243872db39c90c9c2f
+      internalID: 6465091393408238878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_50
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 322
+        width: 96
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8dad40d0e21b04caf3e9165bcc436b
+      internalID: -2150512139655026431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_51
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 324
+        width: 93
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a8f6e6a5b116943a4c27b96f2b1e35
+      internalID: -3322139509929490394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_52
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 323
+        width: 99
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203def3201cb244448e31ad200433ae4
+      internalID: -2368993872183401408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_53
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 324
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c613604e6936434692de370429b02ba
+      internalID: -3166132452696811816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 153
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa705cf413688ee46894b7d8ac51ea22
+      internalID: 3342033292104776407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 153
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66faf5f33060a147a8bff1772962638
+      internalID: 3895537285501837073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_56
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 153
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce4f307a843164da7100ebcf7b0975
+      internalID: -3930226405868249096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_57
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 153
+        width: 90
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ec2e23adb0174c9c6affe77dbbb31
+      internalID: -5760167945764072406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_58
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 153
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25420004b5d79004e9680f38b183fb3d
+      internalID: -8868392585238706146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_59
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 153
+        width: 89
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4b6b158e98b0f4886ba36a959c0232
+      internalID: -2836665155545525435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_60
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 153
+        width: 89
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845db0efe01b75b44ad42df0cb9ec776
+      internalID: -4595987612161399164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_61
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 154
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79fb7d031b92604892bd2ab423b1b26
+      internalID: 1993740855369703383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_62
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 154
+        width: 88
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373174e149ab74a4097b657ee3a205cc
+      internalID: -7022864682483412536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_63
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a0d1c33aee1ed46a1e6f1736199bcf
+      internalID: 6871027442904512536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_64
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e3d44772976cf4c91dc7b854196347
+      internalID: 5671934214856337169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_65
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146458aa900532c4894e583e2347072d
+      internalID: -915764690348663214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_66
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a8fe667c2a9904cb296268e57ae104
+      internalID: -7903637604735250989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_67
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b799f3e923d28b428d21ff30a390668
+      internalID: 5781232053684765976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_68
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715b88f555c822a4eb62c98f0cf65f56
+      internalID: -1103123155210063795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Idle_69
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cd82018f31113488ac2580d0b187fa
+      internalID: 5707805243446101172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

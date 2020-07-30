@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 1ee4019776a6bab46979a70a90533f2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6152901016557357991
+    second: Rube Talk_0
+  - first:
+      213: 7176863212187693989
+    second: Rube Talk_1
+  - first:
+      213: -8586073485055456175
+    second: Rube Talk_2
+  - first:
+      213: -1744687378140657096
+    second: Rube Talk_3
+  - first:
+      213: -1939044265119880593
+    second: Rube Talk_4
+  - first:
+      213: 2139877959114766085
+    second: Rube Talk_5
+  - first:
+      213: -4089054542425206972
+    second: Rube Talk_6
+  - first:
+      213: -5830071454688153240
+    second: Rube Talk_7
+  - first:
+      213: -6940890554920461677
+    second: Rube Talk_8
+  - first:
+      213: 211155707036600882
+    second: Rube Talk_9
+  - first:
+      213: -3850352365883773537
+    second: Rube Talk_10
+  - first:
+      213: -5401764006861611662
+    second: Rube Talk_11
+  - first:
+      213: -8802234809861328449
+    second: Rube Talk_12
+  - first:
+      213: -6149819244392358113
+    second: Rube Talk_13
+  - first:
+      213: -9104651209850859106
+    second: Rube Talk_14
+  - first:
+      213: -8799361747338401216
+    second: Rube Talk_15
+  - first:
+      213: 5918098692985848132
+    second: Rube Talk_16
+  - first:
+      213: 7542601950437873185
+    second: Rube Talk_17
+  - first:
+      213: 2596022136577933932
+    second: Rube Talk_18
+  - first:
+      213: -4555067531675876676
+    second: Rube Talk_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rube Talk_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 307
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef71b3fdc0401f46bde280e218e1aba
+      internalID: 6152901016557357991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 307
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1cf0d1f052bdb4ab606a915acf7457
+      internalID: 7176863212187693989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 307
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7e559b8ea16345b40784866199dce
+      internalID: -8586073485055456175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 307
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72988e84d570fa499028805edc1b599
+      internalID: -1744687378140657096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 307
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1571ff2f0115ddc4095144886dee1e77
+      internalID: -1939044265119880593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_5
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 307
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423f870ead7b7f46bf6a2ef7d1bd432
+      internalID: 2139877959114766085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 307
+        width: 89
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919baa16b0be1f74b825753bbb9c9dea
+      internalID: -4089054542425206972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 153
+        width: 89
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe5a7ec80bce0b4bb8cc1346a5961d6
+      internalID: -5830071454688153240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 153
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507efc0d1b9d30f42b8e20c747ffe318
+      internalID: -6940890554920461677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 153
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab33eb614603af4a95312e443dc432e
+      internalID: 211155707036600882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 153
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf8fd8562ee4cf49abdc62882436c28
+      internalID: -3850352365883773537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 153
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31680c37e12ae040996f6dcd0a255f0
+      internalID: -5401764006861611662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 153
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3496851c8a1a3414aa84549b0142eb02
+      internalID: -8802234809861328449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_13
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 153
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea23cd12405ab4895549955edeb1cc
+      internalID: -6149819244392358113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37e86cef2fbfc4db7c1f380acb396e
+      internalID: -9104651209850859106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b3eae44bff9ff468ff853bfd415e50
+      internalID: -8799361747338401216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2841bea300a67c4a823086e2c24b5b0
+      internalID: 5918098692985848132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d45b1814929ac47a5082e8aff85fe3
+      internalID: 7542601950437873185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_18
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e9035b4c25864da44a28d078de35d
+      internalID: 2596022136577933932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rube Talk_19
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ffad6a2ef9744291467b4744cbf12
+      internalID: -4555067531675876676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
