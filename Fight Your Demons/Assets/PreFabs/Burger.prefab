@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5551576320903723651}
   - component: {fileID: 5551576320903723650}
   - component: {fileID: 649542926}
+  - component: {fileID: 7988044311673446082}
   m_Layer: 0
   m_Name: Burger
   m_TagString: Untagged
@@ -94,4 +95,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
-  rotateSpeed: 45
+--- !u!58 &7988044311673446082
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5551576320903723653}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.15201116, y: 0}
+  serializedVersion: 2
+  m_Radius: 4.5423512
