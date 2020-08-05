@@ -5,9 +5,12 @@ using UnityEngine;
 public class DefenderButton : MonoBehaviour
 {
 
+    [SerializeField] Defender defenderPrefab;
+
     private void OnMouseDown()
     {
         LightUp();
+        FindObjectOfType<DefenderSpawner>().SetSelectedDefender(defenderPrefab);
     }
 
 
@@ -21,14 +24,5 @@ public class DefenderButton : MonoBehaviour
         GetComponent<SpriteRenderer>().color = Color.white;
     }
 
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
