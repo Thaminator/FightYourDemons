@@ -6,6 +6,7 @@ public class DefenderSpawner : MonoBehaviour
 {
     [SerializeField] GameObject defender;
     [SerializeField] float yOffset = 0.2f;
+    [SerializeField] float xOffset = 0.2f;
 
     private void OnMouseDown()
     {
@@ -23,7 +24,7 @@ public class DefenderSpawner : MonoBehaviour
     private Vector2 SnaptoGrid(Vector2 rawWorldPos)
     {
 
-        float newX = Mathf.RoundToInt(rawWorldPos.x);
+        float newX = Mathf.RoundToInt(rawWorldPos.x) + xOffset;
         float newY = Mathf.Floor(rawWorldPos.y) + yOffset;
         return new Vector2(newX, newY);
     }
