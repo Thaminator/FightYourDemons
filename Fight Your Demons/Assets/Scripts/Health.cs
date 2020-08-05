@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class Health : MonoBehaviour
 {
-    [SerializeField] float health = 2f;
+    [SerializeField] float health = 1f;
+    [SerializeField] GameObject deathVFX;
     void Start()
     {
         
@@ -18,13 +19,26 @@ public class Health : MonoBehaviour
 
     
 
-    public void DealDamage(float damage)
+     public void DealDamage(float damage)
     {
-        health-=damage;
-        if(health<=0)
-        { 
-            Destroy(gameObject); 
+        health -= damage;
+        if (health <= 0)
+        {
+            TriggerDeathVFX();
+            Destroy(gameObject);
         }
     }
+
+
+
+
+
+     private void TriggerDeathVFX()
+    {
+        if(!deathVFX) { return; }
+        GameObject deathVFXObject = Instantiate(deathVFX, transform.position, transform.rotation);
+        Destroy(deathVFXObject, 1f);
+    }
+
 
 }
